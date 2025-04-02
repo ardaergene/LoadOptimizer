@@ -4,3 +4,4 @@ numpy>=1.0.0
 ortools>=9.0.0
 plotly>=5.0.0
 xlsxwriter
+openpyxl
